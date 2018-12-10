@@ -1,0 +1,40 @@
+.t-swipe-content{
+  min-height: 100px;
+  height: 200px!important;
+  width: 100%;
+}
+.t-content{
+  width: 100%;
+  padding: .4rem .4rem 1.34rem .4rem;
+}
+.t-content-list{
+  background: white;
+  width: 100%;
+  height: 225px;
+  margin-bottom: 15px;
+}
+.t-content-logo{
+  height: 160px;
+  background: aqua;
+}
+.t-content-title{
+  width: 100%;
+  padding: 10px;
+  height: 65px;
+}
+.t-con-title{
+  line-height: 0.45rem;
+  font-size: 0.45rem;
+  font-weight: bold;
+}
+.t-con-price{
+  line-height: 0.9rem;
+  font-size: 0.5rem;
+  color: red;
+  font-weight: bold;
+}
+.t-con-price-logo{
+  line-height: 0.9rem;
+  font-size: 0.4rem;
+  color: red;
+}

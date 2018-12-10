@@ -1,0 +1,45 @@
+.t-link-content{
+  padding: 10px;
+}
+.t-link-a{
+  width: 100%;
+  background: antiquewhite;
+  min-height: 100px;
+  border-radius: 5px;
+}
+.t-commodity-content{
+  padding: 0 10px;
+}
+.t-commodity-list{
+  width: 100%;
+  background: aqua;
+  min-height: 120px;
+  padding: 10px 10px 10px 100px;
+  position: relative;
+}
+.t-commodity-logo{
+  position: absolute;
+  top: 10px;
+  border-radius: 5px;
+  left: 10px;
+  width: 100px;
+  height: 100px;
+  background: blue;
+}
+.t-commodity-title{
+  line-height: 70px;
+  font-size: 25px;
+  margin-left: 20px;
+  font-weight: bold;
+}
+.t-commodity-address{
+  margin-left: 20px;
+  padding-right: 20px;
+  width: 100%;
+  line-height: 20px;
+  overflow: hidden;
+  font-size: 16px;
+}
+.t-commodity-city{
+  float: left;
+}

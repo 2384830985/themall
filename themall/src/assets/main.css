@@ -1,0 +1,17 @@
+.t-left{
+    float: left;
+}
+.t-right{
+    float: right;
+}
+body{
+    background: #fafafa;
+}
+.w-100{
+    width: 100%;
+}
+.ov-te-wh{
+    overflow: hidden;/*内容超出后隐藏*/
+    text-overflow: ellipsis;/* 超出内容显示为省略号*/
+    white-space: nowrap;/*文本不进行换行*/
+}
